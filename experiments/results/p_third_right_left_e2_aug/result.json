@@ -1,0 +1,17 @@
+{
+  "views": [
+    "third",
+    "right",
+    "left"
+  ],
+  "experts": [
+    2
+  ],
+  "best_val_sel": 0.25366734713315964,
+  "n_train": 138702,
+  "n_val": 18298,
+  "feat_dirs": [
+    "<SWITCH_ROOT>/feats",
+    "<SWITCH_ROOT>/feats_aug1"
+  ]
+}

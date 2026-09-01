@@ -1,0 +1,38 @@
+{
+  "E1 右臂抓放": {
+    "dataset": "nero_right_box_pick_ee_v1",
+    "episodes": 100,
+    "frames": 41034,
+    "subtasks": 200,
+    "events": 200,
+    "order_violation": 0,
+    "dur_median": 196
+  },
+  "E2 左臂抓放": {
+    "dataset": "nero_left_box_pick_v2_sub",
+    "episodes": 100,
+    "frames": 38087,
+    "subtasks": 200,
+    "events": 200,
+    "order_violation": 0,
+    "dur_median": 181
+  },
+  "E3 封箱中段(7子任务)": {
+    "dataset": "nero_hezi_closing_ee_v1",
+    "episodes": 100,
+    "frames": 87649,
+    "subtasks": 700,
+    "events": 700,
+    "order_violation": 0,
+    "dur_median": 123
+  },
+  "E4 封箱末段(7子任务)": {
+    "dataset": "nero_stage56_flap_closing_ee_v2",
+    "episodes": 69,
+    "frames": 70187,
+    "subtasks": 483,
+    "events": 483,
+    "order_violation": 0,
+    "dur_median": 139
+  }
+}

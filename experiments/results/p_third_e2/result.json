@@ -1,0 +1,11 @@
+{
+  "views": [
+    "third"
+  ],
+  "experts": [
+    2
+  ],
+  "best_val_sel": 0.3065394312143326,
+  "n_train": 69351,
+  "n_val": 18298
+}

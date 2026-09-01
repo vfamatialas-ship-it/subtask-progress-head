@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+feats/
+*.bak_*
+.DS_Store

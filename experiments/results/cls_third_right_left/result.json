@@ -1,0 +1,9 @@
+{
+  "views": [
+    "third",
+    "right",
+    "left"
+  ],
+  "frame_acc": 0.999970018863678,
+  "close_binary_acc": 1.0
+}
